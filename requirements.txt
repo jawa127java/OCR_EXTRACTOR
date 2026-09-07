@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-multipart
+easyocr
+torch --extra-index-url https://download.pytorch.org/whl/cpu
